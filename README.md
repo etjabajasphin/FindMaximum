@@ -1,7 +1,3 @@
-Exp No:
-
-Date:
-
 # Find the maximum of a list of numbers
 ## Aim:
 To write a program to find the maximum of a list of numbers.
@@ -36,7 +32,7 @@ iii) # To find the maximum marks without using builtin functions.
 ```
 ## Sample Input and Output
 ![output](./img/max_marks1.jpg) 
-![output](./img/max_marks2.jpg) 
+## Output:
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
