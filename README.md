@@ -32,6 +32,7 @@ iii) # To find the maximum marks without using builtin functions.
 ```
 ## Sample Input and Output
 ![output](./img/max_marks1.jpg) 
+
 ## Output:
 
 ## Result:
